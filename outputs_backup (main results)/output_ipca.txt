@@ -1,0 +1,275 @@
+------------ epoch 1 / 38 ------------
+loading rows 0 to 500
+we use 500 for ipca
+processing first flow took 0.1506 seconds
+ipca took 193.4289 seconds
+updating sketch
+frequent directions took 25.6889 seconds
+------------ epoch 2 / 38 ------------
+loading rows 500 to 1000
+ipca took 213.4139 seconds
+starting anomaly detection
+anomaly detection took 0.0912 seconds
+updating sketch
+frequent directions took 45.5071 seconds
+------------ epoch 3 / 38 ------------
+loading rows 1000 to 1500
+ipca took 243.7624 seconds
+starting anomaly detection
+anomaly detection took 0.1306 seconds
+updating sketch
+frequent directions took 31.0403 seconds
+------------ epoch 4 / 38 ------------
+loading rows 1500 to 2000
+ipca took 244.7304 seconds
+starting anomaly detection
+anomaly detection took 0.0984 seconds
+updating sketch
+frequent directions took 26.9867 seconds
+------------ epoch 5 / 38 ------------
+loading rows 2000 to 2500
+ipca took 236.5871 seconds
+starting anomaly detection
+anomaly detection took 0.0902 seconds
+updating sketch
+frequent directions took 26.2933 seconds
+------------ epoch 6 / 38 ------------
+loading rows 2500 to 3000
+ipca took 204.3082 seconds
+starting anomaly detection
+anomaly detection took 0.1131 seconds
+updating sketch
+frequent directions took 33.3394 seconds
+------------ epoch 7 / 38 ------------
+loading rows 3000 to 3500
+ipca took 202.2489 seconds
+starting anomaly detection
+anomaly detection took 0.0559 seconds
+updating sketch
+frequent directions took 36.3954 seconds
+------------ epoch 8 / 38 ------------
+loading rows 3500 to 4000
+ipca took 194.0608 seconds
+starting anomaly detection
+anomaly detection took 0.0690 seconds
+updating sketch
+frequent directions took 43.4662 seconds
+------------ epoch 9 / 38 ------------
+loading rows 4000 to 4500
+ipca took 158.6023 seconds
+starting anomaly detection
+anomaly detection took 0.0189 seconds
+updating sketch
+frequent directions took 11.0258 seconds
+------------ epoch 10 / 38 ------------
+loading rows 4500 to 5000
+ipca took 168.3668 seconds
+starting anomaly detection
+anomaly detection took 0.0222 seconds
+updating sketch
+frequent directions took 10.5851 seconds
+------------ epoch 11 / 38 ------------
+loading rows 5000 to 5500
+ipca took 93.3123 seconds
+starting anomaly detection
+anomaly detection took 0.0240 seconds
+updating sketch
+frequent directions took 8.2964 seconds
+------------ epoch 12 / 38 ------------
+loading rows 5500 to 6000
+ipca took 94.5264 seconds
+starting anomaly detection
+anomaly detection took 0.0196 seconds
+updating sketch
+frequent directions took 8.5514 seconds
+------------ epoch 13 / 38 ------------
+loading rows 6000 to 6500
+ipca took 94.1332 seconds
+starting anomaly detection
+anomaly detection took 0.0240 seconds
+updating sketch
+frequent directions took 11.0004 seconds
+------------ epoch 14 / 38 ------------
+loading rows 6500 to 7000
+ipca took 125.4629 seconds
+starting anomaly detection
+anomaly detection took 0.0220 seconds
+updating sketch
+frequent directions took 9.3410 seconds
+------------ epoch 15 / 38 ------------
+loading rows 7000 to 7500
+ipca took 89.4196 seconds
+starting anomaly detection
+anomaly detection took 0.0200 seconds
+updating sketch
+frequent directions took 8.3463 seconds
+------------ epoch 16 / 38 ------------
+loading rows 7500 to 8000
+ipca took 91.7309 seconds
+starting anomaly detection
+anomaly detection took 0.0248 seconds
+updating sketch
+frequent directions took 8.7178 seconds
+------------ epoch 17 / 38 ------------
+loading rows 8000 to 8500
+ipca took 90.5880 seconds
+starting anomaly detection
+anomaly detection took 0.0220 seconds
+updating sketch
+frequent directions took 12.9223 seconds
+------------ epoch 18 / 38 ------------
+loading rows 8500 to 9000
+ipca took 172.5606 seconds
+starting anomaly detection
+anomaly detection took 0.1030 seconds
+updating sketch
+frequent directions took 40.8228 seconds
+------------ epoch 19 / 38 ------------
+loading rows 9000 to 9500
+ipca took 200.6607 seconds
+starting anomaly detection
+anomaly detection took 0.0890 seconds
+updating sketch
+frequent directions took 33.9593 seconds
+------------ epoch 20 / 38 ------------
+loading rows 9500 to 10000
+ipca took 200.3436 seconds
+starting anomaly detection
+anomaly detection took 0.0658 seconds
+updating sketch
+frequent directions took 38.2546 seconds
+------------ epoch 21 / 38 ------------
+loading rows 10000 to 10500
+ipca took 204.9884 seconds
+starting anomaly detection
+anomaly detection took 0.0978 seconds
+updating sketch
+frequent directions took 37.5945 seconds
+------------ epoch 22 / 38 ------------
+loading rows 10500 to 11000
+ipca took 202.8582 seconds
+starting anomaly detection
+anomaly detection took 0.0852 seconds
+updating sketch
+frequent directions took 36.3436 seconds
+------------ epoch 23 / 38 ------------
+loading rows 11000 to 11500
+ipca took 200.3762 seconds
+starting anomaly detection
+anomaly detection took 0.0620 seconds
+updating sketch
+frequent directions took 37.7670 seconds
+------------ epoch 24 / 38 ------------
+loading rows 11500 to 12000
+ipca took 189.5106 seconds
+starting anomaly detection
+anomaly detection took 0.0460 seconds
+updating sketch
+frequent directions took 35.1880 seconds
+------------ epoch 25 / 38 ------------
+loading rows 12000 to 12500
+ipca took 157.3235 seconds
+starting anomaly detection
+anomaly detection took 0.0511 seconds
+updating sketch
+frequent directions took 22.9735 seconds
+------------ epoch 26 / 38 ------------
+loading rows 12500 to 13000
+ipca took 129.9734 seconds
+starting anomaly detection
+anomaly detection took 0.0174 seconds
+updating sketch
+frequent directions took 8.3658 seconds
+------------ epoch 27 / 38 ------------
+loading rows 13000 to 13500
+ipca took 87.5275 seconds
+starting anomaly detection
+anomaly detection took 0.0240 seconds
+updating sketch
+frequent directions took 10.0504 seconds
+------------ epoch 28 / 38 ------------
+loading rows 13500 to 14000
+ipca took 140.8933 seconds
+starting anomaly detection
+anomaly detection took 0.0944 seconds
+updating sketch
+frequent directions took 31.6439 seconds
+------------ epoch 29 / 38 ------------
+loading rows 14000 to 14500
+ipca took 193.3840 seconds
+starting anomaly detection
+anomaly detection took 0.1052 seconds
+updating sketch
+frequent directions took 42.2771 seconds
+------------ epoch 30 / 38 ------------
+loading rows 14500 to 15000
+ipca took 184.8943 seconds
+starting anomaly detection
+anomaly detection took 0.1220 seconds
+updating sketch
+frequent directions took 34.4601 seconds
+------------ epoch 31 / 38 ------------
+loading rows 15000 to 15500
+ipca took 145.9580 seconds
+starting anomaly detection
+anomaly detection took 0.0189 seconds
+updating sketch
+frequent directions took 19.1081 seconds
+------------ epoch 32 / 38 ------------
+loading rows 15500 to 16000
+ipca took 163.8340 seconds
+starting anomaly detection
+anomaly detection took 0.0213 seconds
+updating sketch
+frequent directions took 21.1957 seconds
+------------ epoch 33 / 38 ------------
+loading rows 16000 to 16500
+ipca took 169.3865 seconds
+starting anomaly detection
+anomaly detection took 0.0760 seconds
+updating sketch
+frequent directions took 22.0927 seconds
+------------ epoch 34 / 38 ------------
+loading rows 16500 to 17000
+ipca took 145.1411 seconds
+starting anomaly detection
+anomaly detection took 0.0710 seconds
+updating sketch
+frequent directions took 41.6213 seconds
+------------ epoch 35 / 38 ------------
+loading rows 17000 to 17500
+ipca took 186.5900 seconds
+starting anomaly detection
+anomaly detection took 0.0197 seconds
+updating sketch
+frequent directions took 10.2182 seconds
+------------ epoch 36 / 38 ------------
+loading rows 17500 to 18000
+ipca took 89.3858 seconds
+starting anomaly detection
+anomaly detection took 0.0182 seconds
+updating sketch
+frequent directions took 8.0890 seconds
+------------ epoch 37 / 38 ------------
+loading rows 18000 to 18500
+ipca took 88.7879 seconds
+starting anomaly detection
+anomaly detection took 0.0190 seconds
+updating sketch
+frequent directions took 8.5561 seconds
+------------ epoch 38 / 38 ------------
+loading rows 18500 to 18536
+ipca took 7.0584 seconds
+starting anomaly detection
+anomaly detection took 0.0200 seconds
+updating sketch
+frequent directions took 0.6809 seconds
+
+project distance evaluation
+Confusion Matrix:
+ [[17533     3]
+ [  824   176]]
+Precision: 0.98
+Recall:    0.18
+F1 Score:  0.30
+

@@ -1,0 +1,273 @@
+------------ epoch 1 / 38 ------------
+loading rows 0 to 500
+k selected for dim reduction with error 0.5 is 472 out of 3665
+processing first flow took 0.1210 seconds
+gaussian took 0.0850 seconds
+updating sketch
+frequent directions took 7.9957 seconds
+------------ epoch 2 / 38 ------------
+loading rows 500 to 1000
+gaussian took 0.0815 seconds
+starting anomaly detection
+anomaly detection took 0.0220 seconds
+updating sketch
+frequent directions took 9.7252 seconds
+------------ epoch 3 / 38 ------------
+loading rows 1000 to 1500
+gaussian took 0.0950 seconds
+starting anomaly detection
+anomaly detection took 0.0250 seconds
+updating sketch
+frequent directions took 9.3724 seconds
+------------ epoch 4 / 38 ------------
+loading rows 1500 to 2000
+gaussian took 0.0831 seconds
+starting anomaly detection
+anomaly detection took 0.0212 seconds
+updating sketch
+frequent directions took 9.4681 seconds
+------------ epoch 5 / 38 ------------
+loading rows 2000 to 2500
+gaussian took 0.0805 seconds
+starting anomaly detection
+anomaly detection took 0.0219 seconds
+updating sketch
+frequent directions took 12.5522 seconds
+------------ epoch 6 / 38 ------------
+loading rows 2500 to 3000
+gaussian took 0.0801 seconds
+starting anomaly detection
+anomaly detection took 0.0209 seconds
+updating sketch
+frequent directions took 8.8240 seconds
+------------ epoch 7 / 38 ------------
+loading rows 3000 to 3500
+gaussian took 0.0961 seconds
+starting anomaly detection
+anomaly detection took 0.0220 seconds
+updating sketch
+frequent directions took 8.5132 seconds
+------------ epoch 8 / 38 ------------
+loading rows 3500 to 4000
+gaussian took 0.0922 seconds
+starting anomaly detection
+anomaly detection took 0.0422 seconds
+updating sketch
+frequent directions took 9.3133 seconds
+------------ epoch 9 / 38 ------------
+loading rows 4000 to 4500
+gaussian took 0.0880 seconds
+starting anomaly detection
+anomaly detection took 0.0197 seconds
+updating sketch
+frequent directions took 8.6002 seconds
+------------ epoch 10 / 38 ------------
+loading rows 4500 to 5000
+gaussian took 0.0834 seconds
+starting anomaly detection
+anomaly detection took 0.0360 seconds
+updating sketch
+frequent directions took 8.9926 seconds
+------------ epoch 11 / 38 ------------
+loading rows 5000 to 5500
+gaussian took 0.0926 seconds
+starting anomaly detection
+anomaly detection took 0.0351 seconds
+updating sketch
+frequent directions took 9.1074 seconds
+------------ epoch 12 / 38 ------------
+loading rows 5500 to 6000
+gaussian took 0.0880 seconds
+starting anomaly detection
+anomaly detection took 0.0210 seconds
+updating sketch
+frequent directions took 8.7554 seconds
+------------ epoch 13 / 38 ------------
+loading rows 6000 to 6500
+gaussian took 0.0800 seconds
+starting anomaly detection
+anomaly detection took 0.0212 seconds
+updating sketch
+frequent directions took 8.8548 seconds
+------------ epoch 14 / 38 ------------
+loading rows 6500 to 7000
+gaussian took 0.0901 seconds
+starting anomaly detection
+anomaly detection took 0.0217 seconds
+updating sketch
+frequent directions took 8.6822 seconds
+------------ epoch 15 / 38 ------------
+loading rows 7000 to 7500
+gaussian took 0.0976 seconds
+starting anomaly detection
+anomaly detection took 0.0232 seconds
+updating sketch
+frequent directions took 8.9491 seconds
+------------ epoch 16 / 38 ------------
+loading rows 7500 to 8000
+gaussian took 0.0830 seconds
+starting anomaly detection
+anomaly detection took 0.0213 seconds
+updating sketch
+frequent directions took 9.2513 seconds
+------------ epoch 17 / 38 ------------
+loading rows 8000 to 8500
+gaussian took 0.0823 seconds
+starting anomaly detection
+anomaly detection took 0.0303 seconds
+updating sketch
+frequent directions took 8.8788 seconds
+------------ epoch 18 / 38 ------------
+loading rows 8500 to 9000
+gaussian took 0.0801 seconds
+starting anomaly detection
+anomaly detection took 0.0217 seconds
+updating sketch
+frequent directions took 8.9445 seconds
+------------ epoch 19 / 38 ------------
+loading rows 9000 to 9500
+gaussian took 0.0875 seconds
+starting anomaly detection
+anomaly detection took 0.0228 seconds
+updating sketch
+frequent directions took 9.1864 seconds
+------------ epoch 20 / 38 ------------
+loading rows 9500 to 10000
+gaussian took 0.0861 seconds
+starting anomaly detection
+anomaly detection took 0.0199 seconds
+updating sketch
+frequent directions took 8.7496 seconds
+------------ epoch 21 / 38 ------------
+loading rows 10000 to 10500
+gaussian took 0.0831 seconds
+starting anomaly detection
+anomaly detection took 0.0189 seconds
+updating sketch
+frequent directions took 8.1404 seconds
+------------ epoch 22 / 38 ------------
+loading rows 10500 to 11000
+gaussian took 0.0890 seconds
+starting anomaly detection
+anomaly detection took 0.0240 seconds
+updating sketch
+frequent directions took 8.5847 seconds
+------------ epoch 23 / 38 ------------
+loading rows 11000 to 11500
+gaussian took 0.0910 seconds
+starting anomaly detection
+anomaly detection took 0.0215 seconds
+updating sketch
+frequent directions took 9.3150 seconds
+------------ epoch 24 / 38 ------------
+loading rows 11500 to 12000
+gaussian took 0.0920 seconds
+starting anomaly detection
+anomaly detection took 0.0218 seconds
+updating sketch
+frequent directions took 9.0498 seconds
+------------ epoch 25 / 38 ------------
+loading rows 12000 to 12500
+gaussian took 0.0900 seconds
+starting anomaly detection
+anomaly detection took 0.0214 seconds
+updating sketch
+frequent directions took 9.0486 seconds
+------------ epoch 26 / 38 ------------
+loading rows 12500 to 13000
+gaussian took 0.0831 seconds
+starting anomaly detection
+anomaly detection took 0.0205 seconds
+updating sketch
+frequent directions took 9.9096 seconds
+------------ epoch 27 / 38 ------------
+loading rows 13000 to 13500
+gaussian took 0.0911 seconds
+starting anomaly detection
+anomaly detection took 0.0228 seconds
+updating sketch
+frequent directions took 9.5617 seconds
+------------ epoch 28 / 38 ------------
+loading rows 13500 to 14000
+gaussian took 0.0881 seconds
+starting anomaly detection
+anomaly detection took 0.0222 seconds
+updating sketch
+frequent directions took 9.4535 seconds
+------------ epoch 29 / 38 ------------
+loading rows 14000 to 14500
+gaussian took 0.0889 seconds
+starting anomaly detection
+anomaly detection took 0.0250 seconds
+updating sketch
+frequent directions took 9.9784 seconds
+------------ epoch 30 / 38 ------------
+loading rows 14500 to 15000
+gaussian took 0.0931 seconds
+starting anomaly detection
+anomaly detection took 0.0220 seconds
+updating sketch
+frequent directions took 9.9124 seconds
+------------ epoch 31 / 38 ------------
+loading rows 15000 to 15500
+gaussian took 0.0850 seconds
+starting anomaly detection
+anomaly detection took 0.0316 seconds
+updating sketch
+frequent directions took 9.1445 seconds
+------------ epoch 32 / 38 ------------
+loading rows 15500 to 16000
+gaussian took 0.0920 seconds
+starting anomaly detection
+anomaly detection took 0.0242 seconds
+updating sketch
+frequent directions took 9.0601 seconds
+------------ epoch 33 / 38 ------------
+loading rows 16000 to 16500
+gaussian took 0.0895 seconds
+starting anomaly detection
+anomaly detection took 0.0193 seconds
+updating sketch
+frequent directions took 8.4728 seconds
+------------ epoch 34 / 38 ------------
+loading rows 16500 to 17000
+gaussian took 0.0874 seconds
+starting anomaly detection
+anomaly detection took 0.0192 seconds
+updating sketch
+frequent directions took 8.5099 seconds
+------------ epoch 35 / 38 ------------
+loading rows 17000 to 17500
+gaussian took 0.0820 seconds
+starting anomaly detection
+anomaly detection took 0.0253 seconds
+updating sketch
+frequent directions took 8.9914 seconds
+------------ epoch 36 / 38 ------------
+loading rows 17500 to 18000
+gaussian took 0.0802 seconds
+starting anomaly detection
+anomaly detection took 0.0219 seconds
+updating sketch
+frequent directions took 8.6706 seconds
+------------ epoch 37 / 38 ------------
+loading rows 18000 to 18500
+gaussian took 0.0901 seconds
+starting anomaly detection
+anomaly detection took 0.0219 seconds
+updating sketch
+frequent directions took 18.6516 seconds
+------------ epoch 38 / 38 ------------
+loading rows 18500 to 18536
+gaussian took 0.0922 seconds
+starting anomaly detection
+anomaly detection took 0.0412 seconds
+updating sketch
+frequent directions took 2.1734 seconds
+project distance evaluation
+Confusion Matrix:
+ [[17536     0]
+ [    0  1000]]
+Precision: 1.00
+Recall:    1.00
+F1 Score:  1.00

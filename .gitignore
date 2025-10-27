@@ -1,4 +1,5 @@
 CDM__1.pdf
 Online Retail.csv
-t1.doc
+*.doc
+*.tmp
 __pycache__

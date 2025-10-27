@@ -1,0 +1,127 @@
+------------ epoch 1 / 38 ------------
+loading rows 0 to 500
+------------ epoch 2 / 38 ------------
+loading rows 500 to 1000
+anomaly score computations took 0.0319 seconds
+------------ epoch 3 / 38 ------------
+loading rows 1000 to 1500
+anomaly score computations took 0.0360 seconds
+------------ epoch 4 / 38 ------------
+loading rows 1500 to 2000
+anomaly score computations took 0.1656 seconds
+------------ epoch 5 / 38 ------------
+loading rows 2000 to 2500
+anomaly score computations took 0.0360 seconds
+------------ epoch 6 / 38 ------------
+loading rows 2500 to 3000
+anomaly score computations took 0.0310 seconds
+------------ epoch 7 / 38 ------------
+loading rows 3000 to 3500
+anomaly score computations took 0.0324 seconds
+------------ epoch 8 / 38 ------------
+loading rows 3500 to 4000
+anomaly score computations took 0.0396 seconds
+------------ epoch 9 / 38 ------------
+loading rows 4000 to 4500
+anomaly score computations took 0.0310 seconds
+------------ epoch 10 / 38 ------------
+loading rows 4500 to 5000
+anomaly score computations took 0.0330 seconds
+------------ epoch 11 / 38 ------------
+loading rows 5000 to 5500
+anomaly score computations took 0.0270 seconds
+------------ epoch 12 / 38 ------------
+loading rows 5500 to 6000
+anomaly score computations took 0.0571 seconds
+------------ epoch 13 / 38 ------------
+loading rows 6000 to 6500
+anomaly score computations took 0.0340 seconds
+------------ epoch 14 / 38 ------------
+loading rows 6500 to 7000
+anomaly score computations took 0.0380 seconds
+------------ epoch 15 / 38 ------------
+loading rows 7000 to 7500
+anomaly score computations took 0.0330 seconds
+------------ epoch 16 / 38 ------------
+loading rows 7500 to 8000
+anomaly score computations took 0.0330 seconds
+------------ epoch 17 / 38 ------------
+loading rows 8000 to 8500
+anomaly score computations took 0.0343 seconds
+------------ epoch 18 / 38 ------------
+loading rows 8500 to 9000
+anomaly score computations took 0.0260 seconds
+------------ epoch 19 / 38 ------------
+loading rows 9000 to 9500
+anomaly score computations took 0.0362 seconds
+------------ epoch 20 / 38 ------------
+loading rows 9500 to 10000
+anomaly score computations took 0.0460 seconds
+------------ epoch 21 / 38 ------------
+loading rows 10000 to 10500
+anomaly score computations took 0.0380 seconds
+------------ epoch 22 / 38 ------------
+loading rows 10500 to 11000
+anomaly score computations took 0.0340 seconds
+------------ epoch 23 / 38 ------------
+loading rows 11000 to 11500
+anomaly score computations took 0.0360 seconds
+------------ epoch 24 / 38 ------------
+loading rows 11500 to 12000
+anomaly score computations took 0.0300 seconds
+------------ epoch 25 / 38 ------------
+loading rows 12000 to 12500
+anomaly score computations took 0.0282 seconds
+------------ epoch 26 / 38 ------------
+loading rows 12500 to 13000
+anomaly score computations took 0.0330 seconds
+------------ epoch 27 / 38 ------------
+loading rows 13000 to 13500
+anomaly score computations took 0.0371 seconds
+------------ epoch 28 / 38 ------------
+loading rows 13500 to 14000
+anomaly score computations took 0.0300 seconds
+------------ epoch 29 / 38 ------------
+loading rows 14000 to 14500
+anomaly score computations took 0.1584 seconds
+------------ epoch 30 / 38 ------------
+loading rows 14500 to 15000
+anomaly score computations took 0.0460 seconds
+------------ epoch 31 / 38 ------------
+loading rows 15000 to 15500
+anomaly score computations took 0.0346 seconds
+------------ epoch 32 / 38 ------------
+loading rows 15500 to 16000
+anomaly score computations took 0.1638 seconds
+------------ epoch 33 / 38 ------------
+loading rows 16000 to 16500
+anomaly score computations took 0.1710 seconds
+------------ epoch 34 / 38 ------------
+loading rows 16500 to 17000
+anomaly score computations took 0.1823 seconds
+------------ epoch 35 / 38 ------------
+loading rows 17000 to 17500
+anomaly score computations took 0.1513 seconds
+------------ epoch 36 / 38 ------------
+loading rows 17500 to 18000
+anomaly score computations took 0.1538 seconds
+------------ epoch 37 / 38 ------------
+loading rows 18000 to 18500
+anomaly score computations took 0.0380 seconds
+------------ epoch 38 / 38 ------------
+loading rows 18500 to 18536
+anomaly score computations took 0.0254 seconds
+leverage evaluation
+Confusion Matrix:
+ [[17536     0]
+ [  966    34]]
+Precision: 1.00
+Recall:    0.03
+F1 Score:  0.07
+project distance evaluation
+Confusion Matrix:
+ [[17512    24]
+ [  607   393]]
+Precision: 0.94
+Recall:    0.39
+F1 Score:  0.55

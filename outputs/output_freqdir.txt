@@ -1,0 +1,152 @@
+------------ epoch 1 / 38 ------------
+loading rows 0 to 500
+first flow density:  0.00506793997271487
+processing first flow took 0.7591 seconds
+frequent directions took 71.1935 seconds
+starting association rule learning
+tresh  0.51  Sketch density:  0.00261118690313779
+sketch is ready for association rule learning ( took 0.4220 seconds )
+apiriori algorithm started
+[apiriori] frequent itemsets with minsup 0.05
+    support                                           itemsets
+0      0.06                     (REX CASH+CARRY JUMBO SHOPPER)
+1      0.05              (SET/20 RED RETROSPOT PAPER NAPKINS )
+2      0.05                     (PLEASE ONE PERSON METAL SIGN)
+3      0.09                    (WHITE SKULL HOT WATER BOTTLE )
+4      0.06                 (RETROSPOT HEART HOT WATER BOTTLE)
+5      0.05                         (JUMBO STORAGE BAG SKULLS)
+6      0.09                  (PAPER CHAIN KIT 50'S CHRISTMAS )
+7      0.08                     (SCOTTIE DOG HOT WATER BOTTLE)
+8      0.07                       (CHOCOLATE HOT WATER BOTTLE)
+9      0.06                (HOT WATER BOTTLE TEA AND SYMPATHY)
+10     0.05                   (CHRISTMAS CRAFT TREE TOP ANGEL)
+11     0.05               (3 HEARTS HANGING DECORATION RUSTIC)
+12     0.07                         (REGENCY CAKESTAND 3 TIER)
+13     0.10                            (HEART OF WICKER SMALL)
+14     0.08                            (HEART OF WICKER LARGE)
+15     0.08                         (PLASTERS IN TIN SPACEBOY)
+16     0.05                            (FELTCRAFT CUSHION OWL)
+17     0.05                         (FELTCRAFT CUSHION RABBIT)
+18     0.05                               (RED KITCHEN SCALES)
+19     0.09                        (HAND WARMER RED POLKA DOT)
+20     0.06                           (HAND WARMER UNION JACK)
+21     0.05                                     (WICKER STAR )
+22     0.05                       (ALARM CLOCK BAKELIKE GREEN)
+23     0.05                        (ALARM CLOCK BAKELIKE RED )
+24     0.05                        (ALARM CLOCK BAKELIKE PINK)
+25     0.05                  (HOT WATER BOTTLE I AM SO POORLY)
+26     0.05                       (HOT WATER BOTTLE BABUSHKA )
+27     0.08                           (HAND WARMER OWL DESIGN)
+28     0.07                    (HAND WARMER SCOTTY DOG DESIGN)
+29     0.07                          (HAND WARMER BIRD DESIGN)
+30     0.07                (PAPER CHAIN KIT VINTAGE CHRISTMAS)
+31     0.05                        (FELTCRAFT CHRISTMAS FAIRY)
+32     0.06                     (CHRISTMAS LIGHTS 10 REINDEER)
+33     0.05                  (60 CAKE CASES VINTAGE CHRISTMAS)
+34     0.05                         (JAM MAKING SET WITH JARS)
+35     0.05                           (JAM MAKING SET PRINTED)
+36     0.06                                    (CHILLI LIGHTS)
+37     0.06                           (LAUNDRY 15C METAL SIGN)
+38     0.07                   (RED WOOLLY HOTTIE WHITE HEART.)
+39     0.06                    (ASSORTED COLOUR BIRD ORNAMENT)
+40     0.09               (WHITE HANGING HEART T-LIGHT HOLDER)
+41     0.05  (WHITE SKULL HOT WATER BOTTLE , HOT WATER BOTT...
+42     0.05  (RETROSPOT HEART HOT WATER BOTTLE, SCOTTIE DOG...
+43     0.05  (PAPER CHAIN KIT VINTAGE CHRISTMAS, PAPER CHAI...
+44     0.08     (HEART OF WICKER SMALL, HEART OF WICKER LARGE)
+
+[apiriori] association rules with minconf 0.05
+                           antecedents                          consequents  \
+0      (WHITE SKULL HOT WATER BOTTLE )    (HOT WATER BOTTLE I AM SO POORLY)   
+1    (HOT WATER BOTTLE I AM SO POORLY)      (WHITE SKULL HOT WATER BOTTLE )   
+2   (RETROSPOT HEART HOT WATER BOTTLE)       (SCOTTIE DOG HOT WATER BOTTLE)   
+3       (SCOTTIE DOG HOT WATER BOTTLE)   (RETROSPOT HEART HOT WATER BOTTLE)   
+4  (PAPER CHAIN KIT VINTAGE CHRISTMAS)    (PAPER CHAIN KIT 50'S CHRISTMAS )   
+5    (PAPER CHAIN KIT 50'S CHRISTMAS )  (PAPER CHAIN KIT VINTAGE CHRISTMAS)   
+6              (HEART OF WICKER SMALL)              (HEART OF WICKER LARGE)   
+7              (HEART OF WICKER LARGE)              (HEART OF WICKER SMALL)   
+
+   support  confidence       lift  
+0     0.05    0.555556  11.111111  
+1     0.05    1.000000  11.111111  
+2     0.05    0.833333  10.416667  
+3     0.05    0.625000  10.416667  
+4     0.05    0.714286   7.936508  
+5     0.05    0.555556   7.936508  
+6     0.08    0.800000  10.000000  
+7     0.08    1.000000  10.000000  
+
+apiriori took 1.6332 seconds
+fpgrowth algorithm started
+[fpgrowth] frequent itemsets with minsup 0.05
+    support                                           itemsets
+0      0.10                            (HEART OF WICKER SMALL)
+1      0.09               (WHITE HANGING HEART T-LIGHT HOLDER)
+2      0.09                  (PAPER CHAIN KIT 50'S CHRISTMAS )
+3      0.09                        (HAND WARMER RED POLKA DOT)
+4      0.09                    (WHITE SKULL HOT WATER BOTTLE )
+5      0.08                     (SCOTTIE DOG HOT WATER BOTTLE)
+6      0.08                           (HAND WARMER OWL DESIGN)
+7      0.08                            (HEART OF WICKER LARGE)
+8      0.08                         (PLASTERS IN TIN SPACEBOY)
+9      0.07                       (CHOCOLATE HOT WATER BOTTLE)
+10     0.07                (PAPER CHAIN KIT VINTAGE CHRISTMAS)
+11     0.07                          (HAND WARMER BIRD DESIGN)
+12     0.07                    (HAND WARMER SCOTTY DOG DESIGN)
+13     0.07                   (RED WOOLLY HOTTIE WHITE HEART.)
+14     0.07                         (REGENCY CAKESTAND 3 TIER)
+15     0.06                 (RETROSPOT HEART HOT WATER BOTTLE)
+16     0.06                (HOT WATER BOTTLE TEA AND SYMPATHY)
+17     0.06                    (ASSORTED COLOUR BIRD ORNAMENT)
+18     0.06                           (HAND WARMER UNION JACK)
+19     0.06                     (REX CASH+CARRY JUMBO SHOPPER)
+20     0.06                           (LAUNDRY 15C METAL SIGN)
+21     0.06                                    (CHILLI LIGHTS)
+22     0.06                     (CHRISTMAS LIGHTS 10 REINDEER)
+23     0.05                       (ALARM CLOCK BAKELIKE GREEN)
+24     0.05              (SET/20 RED RETROSPOT PAPER NAPKINS )
+25     0.05                     (PLEASE ONE PERSON METAL SIGN)
+26     0.05                         (JUMBO STORAGE BAG SKULLS)
+27     0.05                           (JAM MAKING SET PRINTED)
+28     0.05                         (JAM MAKING SET WITH JARS)
+29     0.05                  (60 CAKE CASES VINTAGE CHRISTMAS)
+30     0.05                                     (WICKER STAR )
+31     0.05               (3 HEARTS HANGING DECORATION RUSTIC)
+32     0.05                        (FELTCRAFT CHRISTMAS FAIRY)
+33     0.05                       (HOT WATER BOTTLE BABUSHKA )
+34     0.05                  (HOT WATER BOTTLE I AM SO POORLY)
+35     0.05                        (ALARM CLOCK BAKELIKE PINK)
+36     0.05                            (FELTCRAFT CUSHION OWL)
+37     0.05                         (FELTCRAFT CUSHION RABBIT)
+38     0.05                               (RED KITCHEN SCALES)
+39     0.05                        (ALARM CLOCK BAKELIKE RED )
+40     0.05                   (CHRISTMAS CRAFT TREE TOP ANGEL)
+41     0.08     (HEART OF WICKER SMALL, HEART OF WICKER LARGE)
+42     0.05  (PAPER CHAIN KIT VINTAGE CHRISTMAS, PAPER CHAI...
+43     0.05  (RETROSPOT HEART HOT WATER BOTTLE, SCOTTIE DOG...
+44     0.05  (WHITE SKULL HOT WATER BOTTLE , HOT WATER BOTT...
+
+[fpgrowth] association rules with minconf 0.05
+                           antecedents                          consequents  \
+0              (HEART OF WICKER SMALL)              (HEART OF WICKER LARGE)   
+1              (HEART OF WICKER LARGE)              (HEART OF WICKER SMALL)   
+2  (PAPER CHAIN KIT VINTAGE CHRISTMAS)    (PAPER CHAIN KIT 50'S CHRISTMAS )   
+3    (PAPER CHAIN KIT 50'S CHRISTMAS )  (PAPER CHAIN KIT VINTAGE CHRISTMAS)   
+4   (RETROSPOT HEART HOT WATER BOTTLE)       (SCOTTIE DOG HOT WATER BOTTLE)   
+5       (SCOTTIE DOG HOT WATER BOTTLE)   (RETROSPOT HEART HOT WATER BOTTLE)   
+6      (WHITE SKULL HOT WATER BOTTLE )    (HOT WATER BOTTLE I AM SO POORLY)   
+7    (HOT WATER BOTTLE I AM SO POORLY)      (WHITE SKULL HOT WATER BOTTLE )   
+
+   support  confidence       lift  
+0     0.08    0.800000  10.000000  
+1     0.08    1.000000  10.000000  
+2     0.05    0.714286   7.936508  
+3     0.05    0.555556   7.936508  
+4     0.05    0.833333  10.416667  
+5     0.05    0.625000  10.416667  
+6     0.05    0.555556  11.111111  
+7     0.05    1.000000  11.111111  
+
+fpgrowth took 10.1301 seconds
+------------ epoch 2 / 38 ------------
+loading rows 500 to 1000

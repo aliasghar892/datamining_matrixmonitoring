@@ -1,0 +1,105 @@
+apriori
+frequent itemsets with minsup 0.015
+      support                                           itemsets
+0    0.017479                        (ASSORTED COLOURS SILK FAN)
+1    0.015699                          (EDWARDIAN PARASOL BLACK)
+2    0.020393                        (EDWARDIAN PARASOL NATURAL)
+3    0.016077                               (RED RETROSPOT BOWL)
+4    0.031075                            (DOORMAT RED RETROSPOT)
+..        ...                                                ...
+455  0.016616  (LUNCH BAG  BLACK SKULL., LUNCH BAG RED RETROS...
+456  0.015052  (LUNCH BAG CARS BLUE, LUNCH BAG RED RETROSPOT,...
+457  0.015106  (LUNCH BAG SUKI  DESIGN , LUNCH BAG RED RETROS...
+458  0.016832  (ROSES REGENCY TEACUP AND SAUCER , REGENCY CAK...
+459  0.021040  (PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY...
+
+[460 rows x 2 columns]
+
+association rules with minconf 0.015
+                                           antecedents  \
+0                             (WOODLAND CHARLOTTE BAG)   
+1                        (RED RETROSPOT CHARLOTTE BAG)   
+2                           (STRAWBERRY CHARLOTTE BAG)   
+3                        (RED RETROSPOT CHARLOTTE BAG)   
+4                          (CHARLOTTE BAG SUKI DESIGN)   
+..                                                 ...   
+229  (PINK REGENCY TEACUP AND SAUCER, GREEN REGENCY...   
+230  (ROSES REGENCY TEACUP AND SAUCER , GREEN REGEN...   
+231                   (PINK REGENCY TEACUP AND SAUCER)   
+232                 (ROSES REGENCY TEACUP AND SAUCER )   
+233                  (GREEN REGENCY TEACUP AND SAUCER)   
+
+                                           consequents   support  confidence  \
+0                        (RED RETROSPOT CHARLOTTE BAG)  0.015591    0.544256   
+1                             (WOODLAND CHARLOTTE BAG)  0.015591    0.391069   
+2                        (RED RETROSPOT CHARLOTTE BAG)  0.015969    0.601626   
+3                           (STRAWBERRY CHARLOTTE BAG)  0.015969    0.400541   
+4                        (RED RETROSPOT CHARLOTTE BAG)  0.016077    0.509402   
+..                                                 ...       ...         ...   
+229                 (ROSES REGENCY TEACUP AND SAUCER )  0.021040    0.847826   
+230                   (PINK REGENCY TEACUP AND SAUCER)  0.021040    0.720887   
+231  (ROSES REGENCY TEACUP AND SAUCER , GREEN REGEN...  0.021040    0.701439   
+232  (PINK REGENCY TEACUP AND SAUCER, GREEN REGENCY...  0.021040    0.498084   
+233  (PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY...  0.021040    0.564399   
+
+          lift  
+0    13.651328  
+1    13.651328  
+2    15.090311  
+3    15.090311  
+4    12.777091  
+..         ...  
+229  20.070631  
+230  24.033032  
+231  24.033032  
+232  20.070631  
+233  23.994742  
+
+[234 rows x 5 columns]
+
+fp-growth
+frequent itemsets with minsup 0.015
+      support                                           itemsets
+0    0.106711               (WHITE HANGING HEART T-LIGHT HOLDER)
+1    0.017318                   (RED WOOLLY HOTTIE WHITE HEART.)
+2    0.017210              (KNITTED UNION FLAG HOT WATER BOTTLE)
+3    0.016023                     (SET 7 BABUSHKA NESTING BOXES)
+4    0.023792                           (HAND WARMER UNION JACK)
+..        ...                                                ...
+455  0.025248  (JUMBO BAG RED RETROSPOT, JUMBO BAG DOILEY PAT...
+456  0.023090  (JUMBO BAG DOILEY PATTERNS, JUMBO BAG VINTAGE ...
+457  0.018612  (JUMBO BAG RED RETROSPOT, JUMBO BAG VINTAGE LEAF)
+458  0.024978  (GARDENERS KNEELING PAD CUP OF TEA , GARDENERS...
+459  0.015160  (LARGE WHITE HEART OF WICKER, SMALL WHITE HEAR...
+
+[460 rows x 2 columns]
+
+association rules with minconf 0.015
+                              antecedents  \
+0             (ALARM CLOCK BAKELIKE RED )   
+1            (ALARM CLOCK BAKELIKE GREEN)   
+2             (ALARM CLOCK BAKELIKE RED )   
+3             (ALARM CLOCK BAKELIKE PINK)   
+4             (ALARM CLOCK BAKELIKE PINK)   
+..                                    ...   
+229              (JUMBO BAG VINTAGE LEAF)   
+230  (GARDENERS KNEELING PAD CUP OF TEA )   
+231   (GARDENERS KNEELING PAD KEEP CALM )   
+232         (LARGE WHITE HEART OF WICKER)   
+233         (SMALL WHITE HEART OF WICKER)   
+
+                              consequents   support  confidence       lift  
+0            (ALARM CLOCK BAKELIKE GREEN)  0.028593    0.604333  14.197612  
+1             (ALARM CLOCK BAKELIKE RED )  0.028593    0.671736  14.197612  
+2             (ALARM CLOCK BAKELIKE PINK)  0.021364    0.451539  13.653725  
+3             (ALARM CLOCK BAKELIKE RED )  0.021364    0.646003  13.653725  
+4            (ALARM CLOCK BAKELIKE GREEN)  0.018505    0.559543  13.145365  
+..                                    ...       ...         ...        ...  
+229             (JUMBO BAG RED RETROSPOT)  0.018612    0.446891   5.177234  
+230   (GARDENERS KNEELING PAD KEEP CALM )  0.024978    0.729134  17.877282  
+231  (GARDENERS KNEELING PAD CUP OF TEA )  0.024978    0.612434  17.877282  
+232         (SMALL WHITE HEART OF WICKER)  0.015160    0.549902  17.513722  
+233         (LARGE WHITE HEART OF WICKER)  0.015160    0.482818  17.513722  
+
+[234 rows x 5 columns]
+
